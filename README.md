@@ -48,9 +48,15 @@ Shows the remote location where you are pushing and pulling data for repository
 >git merge feature
 
 Fastword merging. No conflicting merge to master.
-//........................
-//For commit without comment issue 
-//use on bash
-//1 add comment 
-//2 press ESC kye
-//3 write :WQ and enter
+
+........................
+
+For commit without comment issue 
+
+use on bash
+
+1 add comment 
+
+2 press ESC kye
+
+3 write :WQ and enter
